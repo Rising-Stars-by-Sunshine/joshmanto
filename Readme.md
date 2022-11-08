@@ -14,7 +14,7 @@
 
 ---
 
-![1642117298381.jpg](Josh%20Manto%20ae0d95416df6492eb2a14fffb5c31abf/1642117298381.jpg)
+![1642117298381.jpg](https://github.com/Rising-Stars-by-Sunshine/joshmanto/blob/main/1642117298381.jpg)
 
 ---
 

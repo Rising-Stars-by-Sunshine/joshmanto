@@ -95,4 +95,8 @@
     - How do we full-proof cloud storages from hacks?
 
 ## Sample Course Projects
+| Computing Platforms | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 

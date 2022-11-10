@@ -94,4 +94,5 @@
     - Distributing cloud storage keys to different holders as a form of decentralization
     - How do we full-proof cloud storages from hacks?
 
-##
+## Sample Course Projects
+

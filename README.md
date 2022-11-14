@@ -95,5 +95,5 @@
     - How do we full-proof cloud storages from hacks?
 
 ## Sample Course Projects
-- Problem Set 1: 
+- [Problem Set 1](https://github.com/Rising-Stars-by-Sunshine/joshmanto/tree/main/problem_set_1)
 

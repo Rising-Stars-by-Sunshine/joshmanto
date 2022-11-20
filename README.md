@@ -2,7 +2,7 @@
 
 ---
 
-> Welcome to my stats201 repo. I am an aspiring blockchain developer, currently working on my first startup on connecting decentralized cloud storages. Currently a junior at DKU majoring in data sci. I enjoy coding. 
+> Welcome to my stats201 repo. I am an aspiring blockchain developer, currently working on my first startup on connecting decentralized cloud storages. I am a junior at DKU / Duke majoring in data sci. I enjoy coding. 
 
 # Profile Photo
 
@@ -38,8 +38,8 @@
 ## STATS201 pset1:
 | Platform  | URL |
 | ------------- | ------------- |
-| Colab  | ["Collab ipynb file"](https://colab.research.google.com/drive/1WKpgWiC0PA-wouG1oxi91MkHbGgFhoRF?usp=sharing)  |
-| Kaggle Kernel  | ["Problem Set 1"](https://www.kaggle.com/joshmanto/joshm-pset1/edit)|
-| Documentation  | ["Documentation"](https://docs.google.com/document/d/1Gsp9NJcUGjViw4d5aJo17ExLuDyPUE-xcGV3SCJ6beY/edit?usp=sharing)|
+| Colab  | [Collab ipynb file](https://colab.research.google.com/drive/1WKpgWiC0PA-wouG1oxi91MkHbGgFhoRF?usp=sharing)  |
+| Kaggle Kernel  | [Problem Set 1](https://www.kaggle.com/joshmanto/joshm-pset1/edit)|
+| Documentation  | [Documentation](https://docs.google.com/document/d/1Gsp9NJcUGjViw4d5aJo17ExLuDyPUE-xcGV3SCJ6beY/edit?usp=sharing)|
 
 

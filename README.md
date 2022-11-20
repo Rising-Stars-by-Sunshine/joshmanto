@@ -8,7 +8,7 @@
 
 ---
 
-![1642117298381.jpg](https://github.com/Rising-Stars-by-Sunshine/joshmanto/blob/main/1642117298381.jpg)
+![josh.jpg](https://sites.duke.edu/econ101_002_f2020/files/2020/10/26.png)
 
 
 # Social:
